@@ -40,7 +40,7 @@ AI 复刻的价值不是把参考视频和商品图简单丢给模型，而是�
 
 GitHub Pages 提供了完整的“复刻怎么做”流程说明和真实案例视频：
 
-<https://yunfeiavawang-dev.github.io/product-video-replication-skill/>
+<https://yunfeiavawang-dev.github.io/ecommerce-marketing-video-replication-skill/>
 
 页面展示了如何理解视频、判断商品适配度、在三种复刻程度之间做路由，以及自然分段和剧情压缩如何落地。
 

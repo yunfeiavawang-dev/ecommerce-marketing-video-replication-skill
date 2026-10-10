@@ -2,7 +2,7 @@
 // Examples are pinned runs from the 43 customer-reference cases; the low-fit example is the user-selected Qianyi session.
 const esc = (value = '') => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
 // Resolve the original dashboard's root-relative asset paths against the
-// GitHub Pages project URL (for example /product-video-replication-skill/).
+// GitHub Pages project URL (for example /ecommerce-marketing-video-replication-skill/).
 const localUrl = value => {
   if (typeof value !== 'string' || !value.startsWith('/') || value.startsWith('//')) return '';
   return esc(new URL(value.slice(1), document.baseURI).href);
