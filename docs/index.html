@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#07111f">
+    <meta name="description" content="商品视频复刻 Skill 的决策路径与真实案例展示">
+    <title>商品视频复刻 · 决策路径</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./workflow.css">
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+    <main class="shell">
+      <header class="hero">
+        <div>
+          <div class="eyebrow"><span class="live-dot"></span>PRODUCT VIDEO REPLICATION</div>
+          <h1>商品视频<span>复刻 Skill</span></h1>
+          <p>把参考表现、商品事实和生成策略放在同一条可验证的决策路径里。</p>
+        </div>
+        <a class="refresh-button" href="https://github.com/yunfeiavawang-dev/product-video-replication-skill" target="_blank" rel="noreferrer">查看 Skill 仓库 ↗</a>
+      </header>
+      <section id="workflowPage" aria-label="复刻流程与真实案例"></section>
+    </main>
+    <script type="module">
+      import { renderWorkflow, bindWorkflow } from './workflow.js';
+
+      const items = [
+        { dataset: 'customer', pid: '3776986041119015019', videoNumber: 1, productImages: ['/workflow-assets/shoes-1.jpg'], referenceVideoUrl: '/workflow-assets/length-shoes-source-part1-0-24.mp4' },
+        { dataset: 'customer', pid: '3841717054700912697', videoNumber: 1, productImages: ['/workflow-assets/camisole-1.jpg'] },
+        { dataset: 'customer', pid: '3843392270011334730', videoNumber: 1, productImages: ['/workflow-assets/bracelet-1.jpg'] },
+        { dataset: 'customer', pid: '3805716677245665565', videoNumber: 1, productImages: ['/workflow-assets/pants-1.jpg'] },
+        { dataset: 'customer', pid: '3724768853100724519', videoNumber: 3, productImages: ['/workflow-assets/probiotic-1.jpg'] },
+        { dataset: 'customer', pid: '3832288776768586229', videoNumber: 1, productImages: ['/workflow-assets/aic-camisole-ref-3.jpg'] },
+        { dataset: 'customer', pid: '3535157620023425325', videoNumber: 1, productImages: ['/workflow-assets/cordyceps-ref-8.jpg'] }
+      ];
+
+      const root = document.querySelector('#workflowPage');
+      renderWorkflow(root, items);
+      bindWorkflow(root);
+    </script>
+  </body>
+</html>

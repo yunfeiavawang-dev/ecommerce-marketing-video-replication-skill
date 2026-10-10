@@ -18,3 +18,11 @@ python3 scripts/replica.py validate-plan --help
 ```
 
 Skill 本身是 Agent 执行规范和工具包，不是脱离模型、媒体服务和授权即可独立生成视频的 Web 应用。
+
+## 流程展示
+
+仓库的 GitHub Pages 提供“复刻怎么做”静态流程页：
+
+<https://yunfeiavawang-dev.github.io/product-video-replication-skill/>
+
+页面使用静态 HTML/CSS/JavaScript 和压缩后的 H.264/AAC 案例视频，不依赖本地看板服务器或动态 API。

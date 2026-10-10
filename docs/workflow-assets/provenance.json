@@ -1,0 +1,639 @@
+[
+  {
+    "file": "pants-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "time": 21,
+    "sha256": "170e7e3f391303b91f696fc85a6189624305e263c32643964f293bba8772c79d",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "21",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/pants-1.jpg"
+    ]
+  },
+  {
+    "file": "pants-2.jpg",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "time": 35,
+    "sha256": "470fe476d95933c662f4e9d0e53210e7c2999b6f19c607048d3e61666acdb2f4",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "35",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/pants-2.jpg"
+    ]
+  },
+  {
+    "file": "pants-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "time": 75,
+    "sha256": "86cef0973a7342895beb60290da187f815fedf48764f1921c7cb3636eed766dc",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "75",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/pants-3.jpg"
+    ]
+  },
+  {
+    "file": "camisole-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+    "time": 3,
+    "sha256": "3cb8c86e5fcf15a1cca00d64c0cefb9828cc89c823ebd3611e461109ac67abca",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "3",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/camisole-1.jpg"
+    ]
+  },
+  {
+    "file": "camisole-2.jpg",
+    "source": "评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+    "time": 17.27,
+    "sha256": "13d6f0fb0d6d13eeb1f7f6216c966901798ba0cd14d48f5f24e7ca7fe765fa74",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "17.27",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/camisole-2.jpg"
+    ]
+  },
+  {
+    "file": "camisole-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+    "time": 30,
+    "sha256": "1f21e15dc8ba3e05d525b7854a660184ee9690522a1cbb4cff76b094b174e078",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "30",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/camisole-3.jpg"
+    ]
+  },
+  {
+    "file": "shoes-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+    "time": 3,
+    "sha256": "90f7a5f061649e11f999376023acdd5f3bc6961f016aee4fea0c92460ad5e1d6",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "3",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/shoes-1.jpg"
+    ]
+  },
+  {
+    "file": "shoes-2.jpg",
+    "source": "评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+    "time": 24,
+    "sha256": "adc2a88d05eddcbe4b34f35b7d5c19ea6c4dd39bbfb1256a9a7bf03203b649c7",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "24",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/shoes-2.jpg"
+    ]
+  },
+  {
+    "file": "shoes-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+    "time": 40,
+    "sha256": "14123a64d9cd7410f20cee8872b1d8b2cdd0a4794790f565a51a0e9885be5c95",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "40",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/shoes-3.jpg"
+    ]
+  },
+  {
+    "file": "bracelet-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+    "time": 1,
+    "sha256": "c09fe11e53c6a190ca49a02a51b0a0119ab8dfe37a8552c1966ce0ce79faa6c8",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "1",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/bracelet-1.jpg"
+    ]
+  },
+  {
+    "file": "bracelet-2.jpg",
+    "source": "评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+    "time": 6,
+    "sha256": "f810407e4096e991b858fcf3530fc886ff13099ff0cd33390e1dc8a0b5f274c7",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "6",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/bracelet-2.jpg"
+    ]
+  },
+  {
+    "file": "bracelet-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+    "time": 11,
+    "sha256": "71b874c7c98e2f4953cb00b3ade450ee4dca7af20322f4fb8edd89295b09c816",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "11",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/bracelet-3.jpg"
+    ]
+  },
+  {
+    "file": "probiotic-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+    "time": 1,
+    "sha256": "1386380ee8c5096caea3a482d010da984991f649da51365da2f81ecea1d3d91e",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "1",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/probiotic-1.jpg"
+    ]
+  },
+  {
+    "file": "probiotic-2.jpg",
+    "source": "评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+    "time": 6,
+    "sha256": "47b95b97a43094281586212d590d6b62de4a8b0df52ee52d69e4383ce313895c",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "6",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/probiotic-2.jpg"
+    ]
+  },
+  {
+    "file": "probiotic-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+    "time": 11,
+    "sha256": "6bf1ee1392fa742731a23c5495e4d38e434c8fa7b883fa96d96d78fefa3c1949",
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-y",
+      "-ss",
+      "11",
+      "-i",
+      "/Users/bytedance/Desktop/复刻能力/评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+      "-frames:v",
+      "1",
+      "-vf",
+      "scale=320:-2",
+      "-q:v",
+      "3",
+      "/Users/bytedance/Desktop/复刻能力/评测集/复刻对比看板/public/workflow-assets/probiotic-3.jpg"
+    ]
+  },
+  {
+    "file": "method-bracelet-0-8.mp4",
+    "source": "评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1.mp4",
+    "start": 0,
+    "end": 8,
+    "sha256": "5ae67ef61c6413b23961a2433cb65e048fd264bc8ee30aaf1c9b39d071a46bfc",
+    "purpose": "第三部分：视频参考生成与局部替换案例片段"
+  },
+  {
+    "file": "method-camisole-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "ac8011d0944aad4a151f59369dbd153d6848336c973df6b2ced98ef39fed28e8",
+    "purpose": "第三部分：时间轴重建案例片段"
+  },
+  {
+    "file": "method-pants-21-39.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "start": 21,
+    "end": 39,
+    "sha256": "3f859c84e09dd0d5fc216909688e0b63ebc81ad8a984b45fe1d2be9db71b1c11",
+    "purpose": "第三部分：跨品类因果改编与首尾帧锚点案例片段"
+  },
+  {
+    "file": "after-bracelet-video-ref-0-8.mp4",
+    "source": "评测集/客户自上传case/PID资产/3843392270011334730/3843392270011334730_视频1复刻_Seedance25_A_direct_1.mp4",
+    "start": 0,
+    "end": 8,
+    "sha256": "84fd0f162f783e7f8eb59fa0f527a7d2ae7e41dded6e7d82c705702351d715d6",
+    "purpose": "第二、三部分：手串视频参考生成后的对照片段"
+  },
+  {
+    "file": "after-camisole-timeline-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1复刻_Seedance25_B_timeline.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "08374a552774b79cd71dc402dafb313ee7ddbc767f33218143fafa188b5dc9cd",
+    "purpose": "第三部分：白背心局部替换目标无法原生实现时，第二个 Codex 版本 B_timeline 的替代重建成片"
+  },
+  {
+    "file": "after-pants-story-0-18.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1改编_Seedance25_A_story.mp4",
+    "start": 0,
+    "end": 18,
+    "sha256": "7bd796e621bdc6a5df7fd9d94b2d22075461db5d120c0252dab5c37da5bd178c",
+    "purpose": "第二、三部分：剧情改编后的对照片段"
+  },
+  {
+    "file": "after-pants-anchor-0-18.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1改编_Seedance25_C_loop.mp4",
+    "start": 0,
+    "end": 18,
+    "sha256": "6854fd9e998e87ca73ba3f6f0ec5dc42e8ecef50c35a9a858ceb30c273a6a1f8",
+    "purpose": "第三部分：首尾帧锚点生成后的对照片段"
+  },
+  {
+    "file": "fit-olive-before-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3517963175742063388/3517963175742063388_视频1.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "977df8f17a73a2b48754f0365b6b23bda1acb46af5a6821c054681b2c57f416a",
+    "purpose": "第二部分：橄榄油与纸尿裤跨品类低适配参考片段"
+  },
+  {
+    "file": "fit-olive-after-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3517963175742063388/bulk_20260923/351796_v1/v1/final.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "a334d8215471a5d1c7fcd59974c84422b13e4dbfc9d26fb9a7180b3fb69ce760",
+    "purpose": "第二部分：跨品类改写后的橄榄油成片片段"
+  },
+  {
+    "file": "olive-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3517963175742063388/3517963175742063388_视频1.mp4",
+    "time": 3,
+    "sha256": "0aa9ae278a4ac672230777ed7b9fd2771a171d947b312dee55292239d1ae6647",
+    "purpose": "低适配参考片段封面"
+  },
+  {
+    "file": "olive-after-1.jpg",
+    "source": "评测集/客户自上传case/PID资产/3517963175742063388/bulk_20260923/351796_v1/v1/final.mp4",
+    "time": 3,
+    "sha256": "5e524d1c992c2cf954d2a6d43b804becdd143eb4e817ec3d1caf40964ed2e395",
+    "purpose": "低适配跨品类改写成片封面"
+  },
+  {
+    "file": "fit-aic-camisole-before-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3832288776768586229/3832288776768586229_视频1.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "53f45b44f866287efd63059ce1dac71ff3fb523cbf969397461b42dc787eea53",
+    "purpose": "第二部分：大码女装背心与染发膏跨品类低适配参考片段"
+  },
+  {
+    "file": "fit-aic-camisole-after-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3832288776768586229/千意复刻_20261008/session_837550881282_final.mp4",
+    "start": 0,
+    "end": 10,
+    "session_id": "837550881282",
+    "method": "千意复刻",
+    "sha256": "7926781219b7ab937f5b6c767683a688b011f50a4ab977b47dc90f7f5843a0e7",
+    "purpose": "第二部分：跨品类营销机制改编后的千意成片片段"
+  },
+  {
+    "file": "aic-camisole-ref-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3832288776768586229/3832288776768586229_视频1.mp4",
+    "time": 3,
+    "sha256": "f99c2183596e8e61e54f307b563d01468632952654505075f71f1c1685e2e5b5",
+    "purpose": "低适配千意 Case 的染发膏参考片段封面"
+  },
+  {
+    "file": "aic-camisole-after-3.jpg",
+    "source": "评测集/客户自上传case/PID资产/3832288776768586229/千意复刻_20261008/session_837550881282_final.mp4",
+    "time": 3,
+    "session_id": "837550881282",
+    "sha256": "2182e7364bdc56b8749dda2a06485fdbeff09c20ec01a34927554c80843ea90f",
+    "purpose": "低适配千意 Case 的成片封面"
+  },
+  {
+    "file": "after-camisole-video-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3841717054700912697/3841717054700912697_视频1复刻_Seedance25_A_video.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "b13729f4ad6a0e230c62633a98eb9fd1de07748b4f4b68edb2a828b756cedd7f",
+    "purpose": "第三部分：白背心局部替换目标测试后的对照片段"
+  },
+  {
+    "file": "method-probiotic-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "0b7c3207c95cdc58030d0ca98442741836beddfdc9358721f8dc7a2c26bcc4f2",
+    "purpose": "第三部分：益生菌时间轴重建的原片对照片段"
+  },
+  {
+    "file": "after-probiotic-timeline-0-10.mp4",
+    "source": "评测集/客户自上传case/PID资产/3724768853100724519/3724768853100724519_视频3复刻_Seedance25_B_timeline.mp4",
+    "start": 0,
+    "end": 10,
+    "sha256": "865f1d07a93ac5579a52ea8171e3fac3192ec2df3de2bc1d08eac2cb818eae7f",
+    "purpose": "第三部分：益生菌真实时间轴重建后的对照片段"
+  },
+  {
+    "file": "after-pants-comedy-0-18.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1改编_Seedance25_B_comedy.mp4",
+    "start": 0,
+    "end": 18,
+    "sha256": "8fcbb887a21b3cabb384d02746ade8b4a07d0f7a314b147268787bca832d4f88",
+    "purpose": "第二部分：小黑裤中度改编版本的展示片段"
+  },
+  {
+    "file": "pants-anchor-condition.png",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/creative_20260923/C_loop/anchor.png",
+    "sha256": "ec1c6340afc189979d2c089122275ce06c6eeb7929973bb1eda1507f7482f314",
+    "purpose": "第三部分：小黑裤首尾帧模式真实输入的同一张条件锚点图"
+  },
+  {
+    "file": "fit-cordyceps-before-0-15.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/3535157620023425325_视频1.mp4",
+    "start": 0,
+    "end": 15,
+    "sha256": "ef91622c1b1e653b15d15523d72979f6abf78758ebffec1e476d84278b1c7db3",
+    "purpose": "第二部分：冬虫夏草中适配千意 Case 的食品办公室情景剧参考片段"
+  },
+  {
+    "file": "fit-cordyceps-after-0-15.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/千意复刻_20261008/session_837553320706_final.mp4",
+    "start": 0,
+    "end": 15,
+    "session_id": "837553320706",
+    "method": "千意复刻",
+    "sha256": "b290c90075778374a285d9c27931a10b2dc7bf12ac6805b636aa9675f8c9a644",
+    "purpose": "第二部分：保留办公室反转与加量机制后的冬虫夏草千意成片片段"
+  },
+  {
+    "file": "cordyceps-ref-8.jpg",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/3535157620023425325_视频1.mp4",
+    "time": 8,
+    "sha256": "315c53aca989015f719f89f55eae741a550a46969e777e6fe73cc38862c5b632",
+    "purpose": "冬虫夏草中适配 Case 的食品参考片段封面"
+  },
+  {
+    "file": "cordyceps-after-8.jpg",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/千意复刻_20261008/session_837553320706_final.mp4",
+    "time": 8,
+    "session_id": "837553320706",
+    "sha256": "e63079e1df2c045b621f28f67653aba5dea9e20289636aab62b2ba97fc7c6b19",
+    "purpose": "冬虫夏草中适配 Case 的千意成片封面"
+  },
+  {
+    "file": "length-shoes-source-part1-0-24.mp4",
+    "source": "评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+    "start": 0,
+    "end": 24,
+    "sha256": "6449787b4f04fcb01f6bbd89fb379758b52768a3273ae5820310fbcbe8e96416",
+    "purpose": "第四部分：老人鞋自然边界分段的原片第 1 段"
+  },
+  {
+    "file": "length-shoes-source-part2-24-49.mp4",
+    "source": "评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1.mp4",
+    "start": 24,
+    "end": 49.411995,
+    "sha256": "e1d09b821cbae827333ec2241ca3f8c68a69ef48760e5130b50d14484d9db44e",
+    "purpose": "第四部分：老人鞋自然边界分段的原片第 2 段"
+  },
+  {
+    "file": "length-shoes-after-full.mp4",
+    "source": "评测集/客户自上传case/PID资产/3776986041119015019/3776986041119015019_视频1复刻_Seedance25_A_video.mp4",
+    "start": 0,
+    "end": 49.411995,
+    "sha256": "c69c3d7da6b0f07a1fb2a4f50858a83483acc05e44ce0f55c11a847f7116d627",
+    "purpose": "第四部分：老人鞋两段生成、裁帧与拼接后的完整 Codex 成片"
+  },
+  {
+    "file": "length-cordyceps-source-part1-0-28.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/3535157620023425325_视频1.mp4",
+    "start": 0,
+    "end": 28,
+    "sha256": "6ad48241a58f3b28f3293093e5120f8b211deb36c4d8a50f8f8c38803da90c1a",
+    "purpose": "第四部分：冬虫夏草千意自然分段 Case 的原片第 1 段"
+  },
+  {
+    "file": "length-cordyceps-source-part2-28-53.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/3535157620023425325_视频1.mp4",
+    "start": 28,
+    "end": 53.103991,
+    "sha256": "9ca5c6ecd360b86afea49cdcca9fd833811e47324a2a1f1897349de2fb055729",
+    "purpose": "第四部分：冬虫夏草千意自然分段 Case 的原片第 2 段"
+  },
+  {
+    "file": "length-cordyceps-after-part1-0-28.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/千意复刻_20261008/session_837553320706_final.mp4",
+    "start": 0,
+    "end": 28,
+    "session_id": "837553320706",
+    "version": "V1.1.0",
+    "sha256": "8cbf8d1fc32d8e68fe0609ec8c4e69b27fffd2b2c286a91237176d602daf9d07",
+    "purpose": "第四部分：冬虫夏草自然分段复刻后的第 1 段"
+  },
+  {
+    "file": "length-cordyceps-after-part2-28-53.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/千意复刻_20261008/session_837553320706_final.mp4",
+    "start": 28,
+    "end": 53.010998,
+    "session_id": "837553320706",
+    "version": "V1.1.0",
+    "sha256": "e6c4f90fdcceae17f12d55b2e2f582b548109769f77c99fbc880abbc3378abb5",
+    "purpose": "第四部分：冬虫夏草自然分段复刻后的第 2 段"
+  },
+  {
+    "file": "length-cordyceps-after-full.mp4",
+    "source": "评测集/客户自上传case/PID资产/3535157620023425325/千意复刻_20261008/session_837553320706_final.mp4",
+    "start": 0,
+    "end": 53.010998,
+    "session_id": "837553320706",
+    "version": "V1.1.0",
+    "sha256": "58c8473e707cd9b7734ae05d3528980476d2fe09ba2fa249f6cbb99d129057a2",
+    "purpose": "第四部分：冬虫夏草 28 秒和 25 秒两段混剪后的完整千意成片"
+  },
+  {
+    "file": "length-pants-source-retreat-40-54.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "start": 40,
+    "end": 54,
+    "sha256": "6c8d2dcbcb2feba4e06bd9c295c6a87d56aebeeac8b4d21c2c8e3ccdadca87fa",
+    "purpose": "第四部分：小黑裤剧情压缩所依据的原片退让模块"
+  },
+  {
+    "file": "length-pants-source-support-68-77.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "start": 68,
+    "end": 77,
+    "sha256": "5ba31ed8f0de50f2883546bff988d7eea7e7528a1b074f439dfe4afb26b04fb4",
+    "purpose": "第四部分：小黑裤剧情压缩所依据的原片支持转折模块"
+  },
+  {
+    "file": "length-pants-source-payoff-81-86.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1.mp4",
+    "start": 81,
+    "end": 86,
+    "sha256": "6da4949c2b79511b703959a9cdc3091f8ffeab276fcbe66ce2092ad23451c525",
+    "purpose": "第四部分：小黑裤剧情压缩所依据的原片情绪回报模块"
+  },
+  {
+    "file": "length-pants-after-story-full.mp4",
+    "source": "评测集/客户自上传case/PID资产/3805716677245665565/3805716677245665565_视频1改编_Seedance25_A_story.mp4",
+    "start": 0,
+    "end": 30.042,
+    "sha256": "b20362f6c7f6f63cb933e911f36d27f5fdb6b2982d713f37ec9811557dd1e8a6",
+    "purpose": "第四部分：从四个原片剧情模块重写出的 30 秒完整小黑裤广告"
+  }
+]
