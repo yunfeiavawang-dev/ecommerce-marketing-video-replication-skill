@@ -1,0 +1,4 @@
+interface:
+  display_name: "商品视频复刻"
+  short_description: "分析参考与商品，选择一至三种策略，生成、验收并归档可迭代视频"
+  default_prompt: "使用 $product-video-replication 分析商品与参考视频，选择一至三种复刻方案并完成生成和交付。"
